@@ -1,5 +1,7 @@
 # android-kotlin-practices
 
+![Android CI](https://github.com/richardtin/android-kotlin-practices/workflows/Android%20CI/badge.svg)
+
 Android practices with Kotlin language
 
 ## Practices
@@ -29,3 +31,18 @@ Add `plugins`
 - `badge`: Add a badge overlay to your app icon
 - `semantic_release`: Automated version managment and generator of release notes
 - `mango`: This plugin Android tasks on docker images
+
+### 003.ShowAndroidID
+
+Show `Android_ID` by [Settings.Secure.ANDROID_ID](https://developer.android.com/reference/android/provider/Settings.Secure#ANDROID_ID)
+
+- Reference
+  - [Android Developers - Settins.Secure](https://developer.android.com/reference/android/provider/Settings.Secure)
+
+### 004.MotionLayoutTwitter
+
+Create the Twitter splash screen by MotionLayout
+
+- Reference
+  - [Android MotionLayout: Creating the Twitter splash screen in the simplest way possible (Part I)](https://proandroiddev.com/android-motionlayout-twitter-splash-screen-b5755ed56ee8)
+  - [Android MotionLayout: Creating the Twitter Splash Screen (Part II)](https://proandroiddev.com/android-motionlayout-twitter-splash-screen-57323ee97855)
